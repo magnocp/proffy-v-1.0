@@ -2,5 +2,3 @@
 NLW #2 <br>
 Sistema para cadastro de professores
 
-Para Executar
-npm start
